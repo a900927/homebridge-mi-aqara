@@ -69,13 +69,14 @@ Please follow the steps in this thread: http://bbs.xiaomi.cn/t-13198850. It's in
     }]
 }
 ```
-If you have more than one gateways, fill them in right order, like below.  
+If you have more than one gateways, fill them in right order, like below.  
+note:the password must be a capital letters
 ```
 {
     "platforms": [{
         "platform": "MiAqaraPlatform",
-        "sid": ["6409802da3b3", "f0b4299a5b2b", "f0b4299a77dd"],
-        "password": ["02i44k56zrgg578b", "g250s2vtne8q9qhv", "syu3oasva3uqd5qd"]
+        "sid": ["6409802DA3B3", "F0B4299A5B2B", "F0B4299A77DD"],
+        "password": ["02I44K56ZRGG578B", "G250S2VTNE8Q9QHV", "SYU3OASVA3UQD5QD"]
     }]
 }
 ```
